@@ -1,1 +1,1 @@
-From stoneatom/stonedb:v1.0.3
+FROM stoneatom/stonedb:v1.0.3
